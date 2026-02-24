@@ -41,7 +41,7 @@ function emailsend(){
     Host : "s1.maildns.net",
     Username : "ju5tbe32w@gmail.com",
     Password : "48C2EF7842E78A3C07C880C3B6B687F317E0",
-    To : 'uwdursstw32w@gmail.com',
+    To : 'siphephelo004@gmail.com',
     From : "ju5tbe32w@gmail.com",
     Subject : "This is the subject",
     Body : messsageBody 
