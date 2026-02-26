@@ -939,21 +939,21 @@ contact_info_profile{
 @media screen and (max-width: 800px){
  .image{
     position: absolute;
-    left: -20%;
+
     top:5rem;
   } 
 }
 @media screen and (max-width: 900px){
  .image{
     position: absolute;
-    left: -18%;
+    
     top:5rem;
   } 
 }
 @media screen and (max-width: 1000px){
  .image{
     position: absolute;
-    left: -15%;
+    
     top:5rem;
   } 
 }
@@ -1055,7 +1055,7 @@ contact_info_profile{
 }
 .profile_content img{
   font-size: 2rem;
- margin-right: 1%;
+ 
  }
  .profile_content{
   margin-top: 1rem; 
