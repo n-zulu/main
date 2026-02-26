@@ -404,7 +404,7 @@ color:lightgrey;
  font-size: 15rem;
  mix-blend-mode: normal;
  position: absolute;
- left:50%;
+ left:30%;
  top: 10rem;
  padding:0;
 }
@@ -929,7 +929,6 @@ contact_info_profile{
 @media screen and (max-width: 700px){
  .image{
     position: absolute;
-    left: -5%;
     top:5rem;
     margin: auto;
   } 
