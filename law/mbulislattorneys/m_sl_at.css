@@ -401,11 +401,10 @@ color:lightgrey;
 }
 
 .profile_content img{
- margin-left: 60%;
  font-size: 15rem;
  mix-blend-mode: normal;
  position: absolute;
- right:0.3rem;
+ left:50%;
  top: 10rem;
  padding:0;
 }
